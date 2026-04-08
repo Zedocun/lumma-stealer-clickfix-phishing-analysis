@@ -240,6 +240,12 @@ Even when full malware execution is not observed, early-stage evidence can be en
 
 ---
 
+## Diagram
+
+![Diagram](diagram/diagram.png)
+
+---
+
 ## Repository Structure
 
 ```text
@@ -250,8 +256,4 @@ Even when full malware execution is not observed, early-stage evidence can be en
 ├── TIMELINE.md
 └── screenshots/
 
----
 
-## Diagram
-
-![Diagram](diagram/diagram.png)
