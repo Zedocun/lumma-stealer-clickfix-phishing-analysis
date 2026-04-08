@@ -244,16 +244,5 @@ Even when full malware execution is not observed, early-stage evidence can be en
 
 ![Diagram](diagram/diagram.png)
 
----
-
-## Repository Structure
-
-```text
-.
-├── README.md
-├── IOC.md
-├── MITRE.md
-├── TIMELINE.md
-└── screenshots/
 
 
