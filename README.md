@@ -249,3 +249,9 @@ Even when full malware execution is not observed, early-stage evidence can be en
 ├── MITRE.md
 ├── TIMELINE.md
 └── screenshots/
+
+---
+
+## Diagram
+
+![Diagram](diagram/diagram.png)
