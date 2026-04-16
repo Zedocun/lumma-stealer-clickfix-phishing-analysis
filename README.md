@@ -1,4 +1,4 @@
-[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)]()
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/lumma-stealer-phishing-campaign-analysis-of-a-click-based-archive-delivery-chain-02b969d13acf)
 
 # Lumma Stealer ClickFix Phishing Analysis
 
